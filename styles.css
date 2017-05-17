@@ -1,1 +1,61 @@
+body, div, ul, ol, {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+.main {
+  width: 70%;
+  margin: 0 auto;
+  text-decoration: none;
+  word-spacing: 5px;
 
+}
+.intro {
+
+}
+.mainproject {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 500px;
+
+}
+
+.main .intro p{
+  font-size: 18px;
+  font-family: sans-serif;
+  padding: 5px;
+
+}
+.main .intro h3 {
+  text-align: right;
+  font-size: 20px;
+}
+.imagediv {
+    padding: 2px;
+}
+.main .intro p b {
+  font-size: 20px;
+}
+footer {
+  text-align: center;
+
+}
+footer p {
+  text-align: left;
+  font-family: serif;
+
+}
+
+footer ul li {
+  margin: 0 10px;
+  padding-right: 10px;
+  list-style-type: none;
+  display: inline;
+
+}
+
+a:hover {
+  color: red;
+}
