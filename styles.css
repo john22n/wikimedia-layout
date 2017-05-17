@@ -18,7 +18,6 @@ body, div, ul, ol, {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  height: 500px;
 
 }
 
@@ -33,7 +32,7 @@ body, div, ul, ol, {
   font-size: 20px;
 }
 .imagediv {
-    padding: 2px;
+    padding: 3%;
 }
 .main .intro p b {
   font-size: 20px;
