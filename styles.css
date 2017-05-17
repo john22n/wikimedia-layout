@@ -10,9 +10,6 @@ body, div, ul, ol, {
   word-spacing: 5px;
 
 }
-.intro {
-
-}
 .mainproject {
   display: flex;
   flex-direction: row;
